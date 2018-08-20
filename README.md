@@ -2,3 +2,7 @@
 Ocean Hackweek 2018 repository
 
 This is a repository for practicing Git and GitHub techniques.
+
+Writing things.
+
+More writing
